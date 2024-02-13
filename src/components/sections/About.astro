@@ -1,0 +1,14 @@
+---
+import Section from '@/components/Section.astro';
+
+import { basics } from '@cv';
+const { summary } = basics;
+---
+
+<Section title="About">
+    {summary.map((paragraph) => <p>{paragraph}</p>)}
+</Section>
+
+<style>
+    
+</style>

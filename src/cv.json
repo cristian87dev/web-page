@@ -1,0 +1,287 @@
+{
+    "basics": {
+      "name": "Cristian Esteban Perrone",
+      "label": "Frontend Developer",
+      "image": "/me.webp",
+      "email": "cristianperrone.dev@gmail.com",
+      "phone": "(912) 555-4321",
+      "url": "https://cristianperrone.dev",
+      "summary": ["I am a Front End Developer who is worried about bring performance and creativity to my work. As a self-taught person, I always look over the last web development technologies and practice.", "I've oriented my work to web technologies so they let me enjoy three different worlds that I love: Technology, Programming and Design."],
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Córdoba",
+        "countryCode": "AR",
+        "region": "Córdoba"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "cristianperrone.dev@gmail.com",
+        "url": "https://www.linkedin.com/in/perronecristian/"
+      }, {
+        "network": "GitHub",
+        "username": "cris87dev",
+        "url": "https://github.com/cristian87dev"
+      }]
+    },
+    "work": [{
+      "name": "Dedalord Games",
+      "position": "Full-stack Developer",
+      "url": "https://dedalord.com",
+      "startDate": "2023-05-10",
+      "endDate": null,
+      "summary": "I am working on this game company for a startup located in the United States. The work is about build a disruptive game platform based on IA. As Fullstack developer my job is contribute to the team by develop the web side of this platform. It is based on React in the frontend and the backend with Node, Posgress and restAPI.",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "EPIC iO Technologies",
+      "position": "Senior Frontend Developer",
+      "url": "https://company.com",
+      "startDate": "2019-10-01",
+      "endDate": "2022-10-01",
+      "summary": "During my time at EpicIO, I performed multiple key roles, including the successful migration of applications such as the Camera CRUD app and Scene Creator to a new platform based on modern technologies like ReactJS, Redux, and SingleSPA. Additionally, I implemented a drawing application using the KonvaJS library to enhance user detection and feedback in image recognition AI. I also designed and developed an API Gateway based on GraphQL to consume RESTFul APIs. As a result of business and migration needs, I conducted research and subsequently implemented a microfrontend based on SingleSPA, along with a monorepo structure. Furthermore, I developed a private library as an adapter for integrating new features and widgets into existing Scene Creator and Camera Viewer applications.",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "Webee Corporation",
+      "position": "Full-stack Developer",
+      "url": "https://company.com",
+      "startDate": "2018-07-01",
+      "endDate": "2019-05-01",
+      "summary": "I worked on Webee, an Internet Of Things start up with base on Silicon Valley and Cordoba, where my team and I are developing a MEAN based platform focused on integrate a variety of devices and sensors to conect them to a cloud which process the data and expose it in user custom dasboards built on a Flow Based Programming manner.",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "Incluit",
+      "position": "Front End Developer",
+      "url": "https://company.com",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-01",
+      "summary": "I played as Front-End Developer for an Intel + McAffee Team in H+A Offices. We were developing a Security App for McAffee customers to follow posible security attacks. The front-end was based on Angular Components + Redux (With Redux Saga) + JS6 Syntax + Webpack. Also I played as QA Test Automation to test my own code.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "AngularJS",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Angular",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Redux",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "SingleSPA",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Express.js",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Django",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "GraphQL",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "RESTful APIs",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "jQuery",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Webpack",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Grunt",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Gulp",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "React Native",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Phonegap/Cordova",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "MongoDB",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "SQL Server",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "KonvaJS",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "D3.js",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "DurandalJS",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "DotNetNuke",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Jasmine",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Automation",
+        "level": "Advanced",
+        "keywords": []
+      },
+      {
+        "name": "Agile Methodologies",
+        "level": "Advanced",
+        "keywords": ["Scrum", "Kanban"]
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced",
+        "keywords": []
+      }
+    ]
+    ,
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
