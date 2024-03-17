@@ -1,5 +1,6 @@
 ---
 import Section from "@/components/Section.astro";
+
 import Mail from "@/assets/icons/Mail.astro";
 import Phone from "@/assets/icons/Phone.astro";
 import GitHub from "@/assets/icons/GitHub.astro";
@@ -19,20 +20,26 @@ const SOCIAL_ICONS: Record<string, any> = {
 <Section>
   <div class="flex flex-row items-center justify-between gap-4">
     <div class="info">
-      <h1 class="text-4xl text-slate-900">{name}</h1>
-      <h2 class="text-lg text-slate-600 font-medium text-balance">{label}</h2>
+      <h1 class="text-4xl text-slate-900 dark:text-slate-50">{name}</h1>
+      <h2 class="text-lg text-slate-600 dark:text-slate-200 font-medium text-balance">{label}</h2>
       <span
-        class="flex items-center text-sm gap-1 tracking-tighter text-slate-500 fill-slate-500 dark:fill-slate-50"
+        class="flex items-center text-sm gap-1 tracking-tighter text-slate-500 dark: text-slate-400"
       >
         <!-- Section icon here -->
         <WorldMap />
         {city}, {region}
       </span>
       <footer class="flex gap-1 mt-2">
+        <ul class="hidden text-xs text-slate-500 print:block">
+          <li><strong>Mail: </strong>{email}</li>
+          <li><strong>Phone: </strong>{phone}</li>
+          {profiles.map(({ network, url }) => <li><strong>{network}</strong>: {url}</li>)}
+        </ul>
+        <div class="flex gap-1 mt-2 print:hidden">
         {
           email && (
             <a
-              class="inline-flex items-center justify-center p-1 rounded-md border border-slate-200 text-slate-400 transition duration-300 hover:bg-slate-200"
+              class="inline-flex items-center justify-center p-1 rounded-md border border-slate-200 text-slate-400 transition duration-300 hover:bg-slate-200 dark:border-slate-700"
               href={`mailto:${email}`}
               title={`Send an email to ${name} at the address ${email}.`}
               target="_blank"
@@ -71,6 +78,7 @@ const SOCIAL_ICONS: Record<string, any> = {
             );
           })
         }
+        </div>
       </footer>
     </div>
     <figure>
