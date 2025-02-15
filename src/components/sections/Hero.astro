@@ -1,5 +1,6 @@
 ---
 import Section from "@/components/Section.astro";
+import cv from '@cv';
 
 import Mail from "@/assets/icons/Mail.astro";
 import Phone from "@/assets/icons/Phone.astro";
@@ -7,9 +8,7 @@ import GitHub from "@/assets/icons/GitHub.astro";
 import LinkedIn from "@/assets/icons/LinkedIn.astro";
 import WorldMap from "@/assets/icons/WorldMap.astro";
 
-import { basics } from "@cv";
-
-const { name, label, image, location, profiles, phone, email } = basics;
+const { basics: { name, label, image, location, phone, email, profiles } } = cv;
 const { city, region } = location;
 const SOCIAL_ICONS: Record<string, any> = {
   GitHub,
