@@ -1,15 +1,20 @@
 ---
 import Section from '@/components/Section.astro';
+import cv from '@cv';
 
-import { skills } from '@cv';
+interface Skill {
+  name: string;
+}
+
+const skills: Skill[] = cv.skills || [];
 ---
 
 <Section title="Skills">
   <ul class="inline-flex gap-2 flex-wrap">
     {
-      skills.map(({ name }) => (
+      skills.map((skill) => (
         <li class="rounded bg-slate-700 text-slate-100 text-xs font-medium py-1 px-2.5">
-          <span>{name}</span>
+          <span>{skill.name}</span>
         </li>
       ))
     }

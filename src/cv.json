@@ -6,7 +6,7 @@
       "email": "cristianperrone.dev@gmail.com",
       "phone": "+54 (911) 3805-6704",
       "url": "https://cristianperrone.dev",
-      "summary": ["As a Front End Developer, I am dedicated to bringing performance and creativity to my work. Being self-taught, I consistently stay updated on the latest web development technologies and engage in regular practice. My work is oriented towards web technologies, allowing me to immerse myself in three distinct domains that I love: Technology, Programming, and Design."],
+      "summary": ["As a Frontend Developer, I am committed to delivering high performance and creativity in my work. Being self-taught, I continuously stay updated on the latest web development technologies and engage in regular practice. My expertise is centered on web technologies, allowing me to immerse myself in three key areas that I am passionate about: Technology, Programming, and Design."],
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -30,9 +30,9 @@
       "url": "https://dedalord.com",
       "startDate": "2023-05-10",
       "endDate": null,
-      "summary": "I am working on this game company for a startup located in the United States. The work is about build a disruptive game platform based on IA. As Fullstack developer my job is contribute to the team by develop the web side of this platform. It is based on React in the frontend and the backend with Node, Posgress and restAPI.",
+      "summary": "I am currently working at this game company for a startup based in the United States. My role involves building a disruptive gaming platform powered by AI. As a Full-stack Developer, I contribute to the team by developing the web interface of this platform. The frontend is built with React, while the backend utilizes Node.js, PostgreSQL, and REST APIs.",
       "highlights": [
-        "Started the company"
+        "Contributing to the development of an AI-powered gaming platform."
       ]
     }, {
       "name": "EPIC iO Technologies",
@@ -40,9 +40,9 @@
       "url": "https://company.com",
       "startDate": "2019-10-01",
       "endDate": "2022-10-01",
-      "summary": "During my time at EpicIO, I performed multiple key roles, including the successful migration of applications such as the Camera CRUD app and Scene Creator to a new platform based on modern technologies like ReactJS, Redux, and SingleSPA. Additionally, I implemented a drawing application using the KonvaJS library to enhance user detection and feedback in image recognition AI. I also designed and developed an API Gateway based on GraphQL to consume RESTFul APIs. As a result of business and migration needs, I conducted research and subsequently implemented a microfrontend based on SingleSPA, along with a monorepo structure. Furthermore, I developed a private library as an adapter for integrating new features and widgets into existing Scene Creator and Camera Viewer applications.",
+      "summary": "During my tenure at EPIC iO, I played multiple key roles, including the successful migration of applications such as the Camera CRUD app and Scene Creator to a new platform leveraging modern technologies like ReactJS, Redux, and SingleSPA. Additionally, I implemented a drawing application using the KonvaJS library to enhance user interaction and feedback in an image recognition AI system. I also designed and developed an API Gateway using GraphQL to integrate with RESTful APIs. To address business and migration needs, I conducted research and successfully implemented a microfrontend architecture based on SingleSPA, along with a monorepo structure. Furthermore, I developed a private library as an adapter for integrating new features and widgets into existing applications like Scene Creator and Camera Viewer.",
       "highlights": [
-        "Started the company"
+        "Led the migration of key applications to modern technologies."
       ]
     }, {
       "name": "Webee Corporation",
@@ -50,19 +50,19 @@
       "url": "https://company.com",
       "startDate": "2018-07-01",
       "endDate": "2019-05-01",
-      "summary": "I worked on Webee, an Internet Of Things start up with base on Silicon Valley and Cordoba, where my team and I are developing a MEAN based platform focused on integrate a variety of devices and sensors to conect them to a cloud which process the data and expose it in user custom dasboards built on a Flow Based Programming manner.",
+      "summary": "At Webee, an Internet of Things (IoT) startup with bases in Silicon Valley and Córdoba, my team and I developed a MEAN-based platform focused on integrating a variety of devices and sensors. The platform connected these devices to a cloud infrastructure that processed data and presented it through custom user dashboards, designed using a Flow-Based Programming approach.",
       "highlights": [
-        "Started the company"
+        "Developed an IoT platform integrating diverse sensors and devices."
       ]
     }, {
       "name": "Incluit",
-      "position": "Front End Developer",
+      "position": "Frontend Developer",
       "url": "https://company.com",
       "startDate": "2018-09-01",
       "endDate": "2019-05-01",
-      "summary": "I played as Front-End Developer for an Intel + McAffee Team in H+A Offices. We were developing a Security App for McAffee customers to follow posible security attacks. The front-end was based on Angular Components + Redux (With Redux Saga) + JS6 Syntax + Webpack. Also I played as QA Test Automation to test my own code.",
+      "summary": "As a Frontend Developer, I contributed to a project for Intel and McAfee at H+A Offices. Our team developed a security application that allowed McAfee customers to monitor potential security threats. The frontend was built using Angular Components, Redux (with Redux Saga), ES6 JavaScript, and Webpack. Additionally, I took on the role of QA Test Automation to ensure the quality of my own code.",
       "highlights": [
-        "Started the company"
+        "Developed and tested frontend components for a security monitoring application."
       ]
     }],
     "volunteer": [{
